@@ -1,3 +1,7 @@
+# created by = Ronit
+# github username = Ronithere
+# disccord = discord.gg/teamcyl
+
 import os    
 import time    
     
@@ -54,7 +58,7 @@ def jitega(): #isme dekhege ke jita ke nai koi
     else:            
         Game=Running    
     
-print("Welcome To Tic-Tac-Toei")    
+print("Welcome To Tic-Tac-Toe By Ronit")    
 print("Player 1 [X] --- Player 2 [O]\n")    
 print()       
 print("Wait kar...")    
